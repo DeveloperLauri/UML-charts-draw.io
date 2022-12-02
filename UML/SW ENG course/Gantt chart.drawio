@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T13:46:40.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="9e6ff71d4mu-0a28oXAa" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-02T13:51:54.704Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="a-H0hG29odLC_qs6cXdf" version="20.6.0" type="github">
   <diagram name="Page-1" id="8378b5f6-a2b2-b727-a746-972ab9d02e00">
     <mxGraphModel dx="3579.5" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -112,7 +112,7 @@
         <mxCell id="98" value="21.02.22" style="strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="606.5000000000022" y="500.0000000000009" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="99" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="99" value="8" style="strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="86.50000000000064" y="520.0000000000006" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="100" value="" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
@@ -130,106 +130,106 @@
         <mxCell id="104" value="9" style="strokeColor=#DEEDFF;fillColor=#CCE5FF" parent="1" vertex="1">
           <mxGeometry x="86.50000000000037" y="540.000000000001" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="105" value="Workshop" style="align=left;strokeColor=#DEEDFF;fillColor=#CCE5FF" parent="1" vertex="1">
+        <mxCell id="105" value="Käyttöliittymä" style="align=left;strokeColor=#DEEDFF;fillColor=#CCE5FF" parent="1" vertex="1">
           <mxGeometry x="126.50000000000037" y="540.000000000001" width="319.99999999999966" height="20.00000000000003" as="geometry" />
         </mxCell>
-        <mxCell id="106" value="20 days" style="strokeColor=#DEEDFF;fillColor=#CCE5FF" parent="1" vertex="1">
+        <mxCell id="106" value="90" style="strokeColor=#DEEDFF;fillColor=#CCE5FF" parent="1" vertex="1">
           <mxGeometry x="446.5000000000021" y="540.0000000000009" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="107" value="24.04.12" style="strokeColor=#DEEDFF;fillColor=#CCE5FF" parent="1" vertex="1">
+        <mxCell id="107" value="12.12.22" style="strokeColor=#DEEDFF;fillColor=#CCE5FF" parent="1" vertex="1">
           <mxGeometry x="526.5000000000025" y="540.0000000000009" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="108" value="21.05.12" style="strokeColor=#DEEDFF;fillColor=#CCE5FF" parent="1" vertex="1">
+        <mxCell id="108" value="12.3.22" style="strokeColor=#DEEDFF;fillColor=#CCE5FF" parent="1" vertex="1">
           <mxGeometry x="606.5000000000018" y="540.0000000000013" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
         <mxCell id="109" value="10" style="strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="86.50000000000028" y="560.000000000001" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="110" value="Project examination and material comparison" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="110" value="Tyylin valitseminen" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="126.50000000000028" y="560.000000000001" width="319.9999999999997" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="111" value="2 days" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="111" value="2" style="strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="446.50000000000205" y="560.0000000000009" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="112" value="24.04.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="112" value="12.12.22" style="strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="526.5000000000023" y="560.0000000000009" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="113" value="25.04.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="113" value="14.12.22" style="strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="606.5000000000018" y="560.0000000000013" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
         <mxCell id="114" value="11" style="strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="86.50000000000027" y="580.0000000000013" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="115" value="Preparing distribution boards" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="115" value="Värimaailma" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="126.50000000000027" y="580.0000000000013" width="319.9999999999997" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="116" value="2 days" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="116" value="4" style="strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="446.50000000000205" y="580.0000000000011" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="117" value="26.04.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="117" value="14.12.22" style="strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="526.5000000000023" y="580.0000000000011" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="118" value="27.04.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="118" value="18.12.22" style="strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="606.5000000000018" y="580.0000000000015" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
         <mxCell id="119" value="12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="86.49999999999997" y="600.0000000000016" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="120" value="Mounting equipment" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="120" value="Valikot" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="126.49999999999997" y="600.0000000000016" width="320" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="121" value="3 days" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="121" value="3" style="strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="446.5000000000017" y="600.0000000000015" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="122" value="30.04.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="122" value="21.12.22" style="strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="526.500000000002" y="600.0000000000015" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="123" value="2.05.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="123" value="24.12.22" style="strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="606.5000000000015" y="600.0000000000018" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
         <mxCell id="124" value="13" style="strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="86.49999999999999" y="620.0000000000014" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="125" value="Wiring" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="125" value="Koodaaminen" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="126.49999999999999" y="620.0000000000014" width="320" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="126" value="10 days" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="126" value="80" style="strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="446.5000000000017" y="620.0000000000014" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="127" value="3.05.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="127" value="27.12.22" style="strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="526.500000000002" y="620.0000000000014" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="128" value="16.05.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="128" value="12.3.22" style="strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="606.5000000000015" y="620.0000000000016" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
         <mxCell id="129" value="14" style="strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="86.49999999999972" y="640.0000000000018" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="130" value="Testing" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="130" value="" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="126.49999999999972" y="640.0000000000018" width="320.0000000000003" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="131" value="2 days" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="131" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="446.5000000000014" y="640.0000000000018" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="132" value="17.05.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="132" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="526.5000000000018" y="640.0000000000018" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="133" value="18.05.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="133" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="606.5000000000011" y="640.000000000002" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
         <mxCell id="134" value="15" style="strokeColor=#DEEDFF;fillColor=#FFFFFF" parent="1" vertex="1">
           <mxGeometry x="86.49999999999963" y="660.0000000000018" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="135" value="Packaging" style="align=left;strokeColor=#DEEDFF;fillColor=#FFFFFF" parent="1" vertex="1">
+        <mxCell id="135" value="" style="align=left;strokeColor=#DEEDFF;fillColor=#FFFFFF" parent="1" vertex="1">
           <mxGeometry x="126.49999999999963" y="660.0000000000018" width="320.00000000000034" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="136" value="1 day" style="strokeColor=#DEEDFF;fillColor=#FFFFFF" parent="1" vertex="1">
+        <mxCell id="136" value="" style="strokeColor=#DEEDFF;fillColor=#FFFFFF" parent="1" vertex="1">
           <mxGeometry x="446.50000000000136" y="660.0000000000018" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="137" value="21.05.12" style="strokeColor=#DEEDFF;fillColor=#FFFFFF" parent="1" vertex="1">
+        <mxCell id="137" value="" style="strokeColor=#DEEDFF;fillColor=#FFFFFF" parent="1" vertex="1">
           <mxGeometry x="526.5000000000016" y="660.0000000000018" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="138" value="21.05.12" style="strokeColor=#DEEDFF;fillColor=#FFFFFF" parent="1" vertex="1">
+        <mxCell id="138" value="" style="strokeColor=#DEEDFF;fillColor=#FFFFFF" parent="1" vertex="1">
           <mxGeometry x="606.5000000000011" y="660.000000000002" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
         <mxCell id="190" value="" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
